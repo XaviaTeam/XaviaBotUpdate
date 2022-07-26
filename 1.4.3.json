@@ -1,0 +1,18 @@
+{
+  "changed": [
+    "./app/src/modules/common.js",
+    "./README.md",
+    "./app/plugins/commands/general/basic.js",
+    "./app/boot.js",
+    "./TODO.txt",
+    "./cleanup.js",
+    "./app/src/handlers/handleMessage.js",
+    "./app/plugins/commands/management/admin.js"
+  ],
+  "added": [
+    "./_env_json",
+    "./update.js"
+  ],
+  "removed": [],
+  "preVersion": "1.4.2"
+}
