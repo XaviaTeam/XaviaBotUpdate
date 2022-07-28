@@ -5,7 +5,8 @@
     "./app/system.js",
     "./CHANGELOG.md",
     "./package.json",
-    "./TODO.txt"
+    "./TODO.txt",
+    "./README.md"
   ],
   "added": [],
   "removed": [],
