@@ -1,0 +1,52 @@
+{
+    "changed": [
+      "./app/boot.js",
+      "./app/client/index.js",
+      "./app/plugins/commands/economy/economy.js",
+      "./app/plugins/commands/Example/example.js",
+      "./app/plugins/commands/general/basic.js",
+      "./app/plugins/commands/management/admin.js",
+      "./app/plugins/commands/management/moderator.js",
+      "./app/plugins/commands/media/Image.js",
+      "./app/plugins/events/change_thread_image.js",
+      "./app/plugins/events/subcribe.js",
+      "./app/plugins/events/unsubcribe.js",
+      "./app/src/controllers/threads.js",
+      "./app/src/handlers/handleCommand.js",
+      "./app/src/modules/common.js",
+      "./app/src/modules/index.js",
+      "./app/src/modules/loader.js",
+      "./app/src/server/index.js",
+      "./app/src/server/public/favicon.ico",
+      "./app/src/server/public/styles.css",
+      "./app/src/server/views/index.ejs",
+      "./app/system.js",
+      "./app/utils.js",
+      "./CHANGELOG.md",
+      "./cleanup.js",
+      "./DOCS.md",
+      "./package.json",
+      "./README.md",
+      "./TODO.txt",
+      "./update.js"
+    ],
+    "added": [
+      "./app/plugins/commands/economy/game.js",
+      "./app/plugins/commands/management/group.js",
+      "./app/plugins/commands/media/youtube.js",
+      "./app/src/modules/getStats.js",
+      "./setup.js",
+      "./app/src/xConsole/commands.fbchat.js",
+      "./app/src/xConsole/commands.helper.js",
+      "./app/src/xConsole/commands.sys.js",
+      "./app/src/xConsole/index.js"
+    ],
+    "removed": [
+      "./_env_json",
+      "./app/src/CLI/commands.fbchat.js",
+      "./app/src/CLI/commands.helper.js",
+      "./app/src/CLI/commands.sys.js",
+      "./app/src/CLI/index.js"
+    ],
+    "preVersion": "1.4.4"
+  }
