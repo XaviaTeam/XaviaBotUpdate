@@ -3,8 +3,10 @@
         "./CHANGELOG.md",
         "./DOCS.md",
         "./README.md",
+        "./core/_build.js",
         "./core/dashboard/server/app.js",
         "./core/handlers/events.js",
+        "./core/var/modules/checkAppstate.js",
         "./package.json"
     ],
     "added": [
