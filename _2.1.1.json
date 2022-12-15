@@ -1,0 +1,11 @@
+{
+    "changed": [
+        "./plugins/commands/group/setJoin.js",
+        "./plugins/commands/group/setLeave.js",
+        "./core/handlers/events.js",
+        "./package.json"
+    ],
+    "added": [],
+    "removed": [],
+    "preVersion": "2.1.0"
+}
