@@ -34,7 +34,8 @@
         "./plugins/events/thread-update.js",
         "./plugins/events/unsubcribe.js",
         "./plugins/events/user-nickname.js",
-        "./plugins/resend.js"
+        "./plugins/resend.js",
+        "./CHANGELOG.md"
     ],
     "added": [
         "./plugins/commands/Admin/user.js",
