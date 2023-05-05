@@ -1,0 +1,18 @@
+{
+	"changed": [
+		"./core/var/controllers/user.js",
+		"./core/handlers/database.js",
+		"./core/var/modules/logger.js",
+		"./plugins/commands/general/lottery.js",
+		"./plugins/customs/lottery.js",
+		"./plugins/lottery.js",
+		"./plugins/customs/autoSend.js",
+		"./cleanup.js",
+		"./index.js",
+		"./package.json"
+	],
+	"added": [
+	],
+	"removed": [],
+	"preVersion": "2.1.2"
+}
