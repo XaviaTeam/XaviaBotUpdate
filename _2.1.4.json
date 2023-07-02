@@ -1,0 +1,25 @@
+{
+	"changed": [
+		"./core/handlers/database.js",
+		"./core/handlers/events.js",
+		"./core/var/_global_info.js",
+		"./core/var/modules/loader.js",
+		"./plugins/commands/group/adduser.js",
+		"./plugins/commands/group/kick.js",
+		"./plugins/commands/group/settings.js",
+		"./plugins/commands/group/warn.js",
+		"./plugins/commands/media/safebooru.js",
+		"./plugins/customs/autoSend.js",
+		"./plugins/events/thread-update.js",
+		"./plugins/onMessage/messageCount.js",
+		"./plugins/events/subcribe.js",
+		"./README.md",
+		"./LICENSE",
+		"./CHANGELOG.md",
+		"./package.json"
+	],
+	"added": [
+	],
+	"removed": [],
+	"preVersion": "2.1.3"
+}
