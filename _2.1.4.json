@@ -1,6 +1,5 @@
 {
 	"changed": [
-		"./.env.example",
 		"./core/handlers/database.js",
 		"./core/handlers/events.js",
 		"./core/var/_global_info.js",
