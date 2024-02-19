@@ -1,5 +1,9 @@
 [
     {
+        "version": "2.3.2",
+        "head": "5ee8d2f548c3959cbe3cb4fcd357039d270b5d60"
+    },
+    {
         "version": "2.3.1",
         "head": "cdf2422e40a84ec35ed263eb8a22f23a3a0d1dcb"
     },
